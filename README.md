@@ -1,4 +1,6 @@
-# Rust-Refined 📘🦀
+<img src="rust_logo.png" width="50" height="50">
+
+# Rust-Refined 🦀
 
 A **concise, refined, and straight-to-the-point summary** of the official [Rust Programming Language Book](https://doc.rust-lang.org/book/).  
 This repository documents **every important line, note, and insight** from each chapter — no fluff, no noise — just what matters.  
@@ -9,9 +11,6 @@ This repository documents **every important line, note, and insight** from each 
 - Provide Rust learners with a **faster, sharper way** to study the Rust book.  
 - Ensure **no important concept is skipped** — everything crucial from the original book is captured.  
 - Act as a **reference guide** when revisiting Rust topics without rereading the entire book.  
-
-**⚠️ Note:** This is not a replacement for the Rust book, but a *refined companion*.  
-Always refer to the official [Rust Book](https://doc.rust-lang.org/book/) for complete details and examples.
 
 ---
 
@@ -43,6 +42,9 @@ rust-refined/
 To make **Rust-Refined** the **most useful resource after the official Rust book** — a **to-the-point guide** that never skips important details, helping future Rust learners study faster and smarter.  
 
 ---
+
+**⚠️ Note:** This is not a replacement for the Rust book, but a *refined companion*.  
+Always refer to the official [Rust Book](https://doc.rust-lang.org/book/) for complete details and examples.
 
 ## 🤝 Contribute
 **Anyone can contribute!**  
