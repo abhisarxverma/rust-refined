@@ -1,4 +1,4 @@
-<img src="rust_logo.png" width="50" height="50">
+<img src="rust_logo.png" width="100" height="100">
 
 # Rust-Refined 🦀
 
