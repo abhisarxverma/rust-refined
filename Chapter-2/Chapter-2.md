@@ -12,10 +12,12 @@ If a type you want to use isn’t in the prelude, you have to bring that type in
 
 A function that's implemented on a type.
 
-For Example - 
+For Example -
+
 ```rust
 String::new()
 ```
+
 Here the `::` syntax shows that the new is the associated function declared on type String.
 
 ---
@@ -31,7 +33,7 @@ Result is an enumeration, often called an **enum**, which is a type that can be 
 - **Ok** - Indicates the operation was successful, and it contains the successfully generated value.
 - **Err** - Means the operation failed, and it contains information about how or why the operation failed.
 
-An instance of **Result** has an `expect` method that you can call. 
+An instance of **Result** has an `expect` method that you can call.
 
 If this instance of Result is an `Err` value, expect will cause the program to crash and display the message that you passed as an argument to `expect`.
 
@@ -41,10 +43,10 @@ If this instance of Result is an `Ok` value, `expect` will take the return value
 
 Crate is a collection of **Rust source code files**.
 
-### 2 types of crates - 
+### 2 types of crates -
 
 - **Binary Crate** - Contains executable rust source code files.
-- **Library Crate** - Contains code that is intended to be used in other programs and can’t be executed on its own. 
+- **Library Crate** - Contains code that is intended to be used in other programs and can’t be executed on its own.
 
 ## 👉 Ordering
 
@@ -64,4 +66,4 @@ A **match** expression is made up of ***arms***. An **arm** consists of a patter
 
 The match expression ends after the first successful match.
 
-<h1>🥳 Over</h1>
+## 🥳 Over
