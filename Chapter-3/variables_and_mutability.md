@@ -24,7 +24,7 @@ const MAXIMUM_MARKS: u32 = 100;
 
 Constants are valid for the entire time a program runs, within the scope in which they were declared.
 
-##  👉 Shadowing
+## 👉 Shadowing
 
 You can declare a new variable with the same name as a previous variable. ***Rustaceans*** say that the first variable is shadowed by the second, which means that the second variable is what the compiler will see when you use the name of the variable.
 
@@ -40,3 +40,5 @@ fn main() {
     let spaces = spaces.len();   // gets changed to number type
 }
 ```
+
+## 🥳 Over
