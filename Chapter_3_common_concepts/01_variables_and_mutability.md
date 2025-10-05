@@ -1,4 +1,4 @@
-# 3 : Variables and Mutability
+# Variables and Mutability
 
 ## In Rust, by default, variables are immutable 🥳
 
