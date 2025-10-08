@@ -2,8 +2,9 @@
 
 ![rust logo image](rust_logo.png)
 
-A **concise, refined, and straight-to-the-point summary** of the official [Rust Programming Language Book](https://doc.rust-lang.org/book/).  
-This repository documents **every important line, note, and insight** from each chapter.
+This repository documents **every important line, note, and insight** from each chapter of the official [Rust Programming Language Book](https://doc.rust-lang.org/book/).
+
+This aims to create a most concised, to the point version of the Rust-book. This does not aim to explain you concepts.
 
 ---
 
